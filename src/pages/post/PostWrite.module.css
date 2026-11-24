@@ -1,0 +1,10 @@
+.wrapper {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-bottom: var(--space-8);
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+}
